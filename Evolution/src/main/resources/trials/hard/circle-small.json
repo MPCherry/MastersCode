@@ -1,0 +1,13 @@
+{
+  "spawner":
+  {
+    "min_period": 50,
+    "max_period": 50,
+    "type": "linear",
+    "randomness": 2.0,
+    "pedestrian_rate": 500,
+    "pedestrian_randomness": 5
+  },
+  "steps": 3600,
+  "track": "tracks/circle-small.json"
+}

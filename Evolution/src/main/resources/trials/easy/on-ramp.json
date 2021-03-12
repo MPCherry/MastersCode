@@ -1,0 +1,14 @@
+{
+  "spawner":
+  {
+    "min_period": 25,
+    "max_period": 180,
+    "period_mul": 2,
+    "type": "sin",
+    "randomness": 2.0,
+    "pedestrian_rate": 0,
+    "pedestrian_randomness": 1
+  },
+  "steps": 3600,
+  "track": "tracks/on-ramp.json"
+}

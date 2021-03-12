@@ -1,0 +1,67 @@
+{
+  "description": "Standard on ramp",
+  "name": "Reversed Crossing",
+  "curves": [
+    {
+      "degree": 2,
+      "y_1": 204.5,
+      "y_0": 204.5,
+      "x_0": 18.5,
+      "x_1": 152.5,
+      "active": false
+    },
+    {
+      "degree": 2,
+      "y_1": 204.5,
+      "y_0": 204,
+      "x_0": 243,
+      "x_1": 386.0,
+      "active": false
+    },
+    {
+      "degree": 2,
+      "y_1": 204,
+      "y_0": 204.5,
+      "x_0": 152.5,
+      "x_1": 243,
+      "active": true,
+      "precision": 6
+    },
+    {
+      "degree": 2,
+      "y_1": 154.0,
+      "y_0": 39.0,
+      "x_0": 194.5,
+      "x_1": 194.0,
+      "active": false
+    },
+    {
+      "degree": 2,
+      "y_1": 255.0,
+      "y_0": 154.0,
+      "x_0": 194.0,
+      "x_1": 194.0,
+      "active": true,
+      "precision": 6
+    },
+    {
+      "degree": 2,
+      "y_1": 358.5,
+      "y_0": 255.0,
+      "x_0": 194.0,
+      "x_1": 194.5,
+      "active": false
+    },
+    {
+      "degree": 2,
+      "active": false,
+      "x_0": 200.0,
+      "y_0": 210.0,
+      "x_1": 190.0,
+      "y_1": 200.0,
+      "precision": 2,
+      "pedestrian": true
+    }
+  ],
+  "created": "05-11-2018"
+}

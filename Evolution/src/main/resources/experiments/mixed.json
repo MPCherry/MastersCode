@@ -1,0 +1,13 @@
+{
+  "trial_repetitions": 15,
+  "iterations": 100,
+  "population": 100,
+  "trials": [
+    "trials/easy/circle.json",
+    "trials/easy/crossing.json",
+    "trials/medium/four-way.json",
+    "trials/medium/on-ramp-extra.json",
+    "trials/hard/four-way-3-lane.json",
+    "trials/hard/circle-small.json"
+  ]
+}

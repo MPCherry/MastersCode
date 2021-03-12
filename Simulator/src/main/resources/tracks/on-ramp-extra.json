@@ -1,0 +1,98 @@
+{
+  "name": "On-ramp Extra",
+  "created": "09-03-2019",
+  "description": "On ramp with an extra T-junction like intersection",
+  "curves": [
+    {
+      "active": false,
+      "degree": 2,
+      "x_0": 18.5,
+      "y_0": 195.5,
+      "x_1": 169.0,
+      "y_1": 195.5
+    },
+    {
+      "active": true,
+      "degree": 2,
+      "x_0": 216.5,
+      "y_0": 195.0,
+      "x_1": 236.5,
+      "y_1": 195.5
+    },
+    {
+      "active": false,
+      "degree": 2,
+      "precision": 8,
+      "x_0": 236.5,
+      "y_0": 195.5,
+      "x_1": 386.0,
+      "y_1": 195.5
+    },
+    {
+      "degree": 2,
+      "active": true,
+      "x_0": 169.0,
+      "y_0": 195.5,
+      "x_1": 216.5,
+      "y_1": 195.0,
+      "precision": 4
+    },
+    {
+      "degree": 3,
+      "active": true,
+      "precision": 6,
+      "x_0": 155.5,
+      "y_0": 216.5,
+      "x_1": 172.5,
+      "y_1": 199.5,
+      "x_2": 216.5,
+      "y_2": 195.0
+    },
+    {
+      "degree": 2,
+      "active": false,
+      "x_0": 60.5,
+      "y_0": 296.0,
+      "x_1": 155.5,
+      "y_1": 216.5
+    },
+    {
+      "degree": 2,
+      "active": false,
+      "x_0": 226.5,
+      "y_0": 100.0,
+      "x_1": 226.5,
+      "y_1": 185.5
+    },
+    {
+      "degree": 3,
+      "active": true,
+      "precision": 6,
+      "x_0": 226.5,
+      "y_0": 185.5,
+      "x_1": 226.5,
+      "y_1": 195.0,
+      "x_2": 236.5,
+      "y_2": 195.5
+    },
+    {
+      "degree": 2,
+      "active": false,
+      "pedestrian": true,
+      "x_0": 235.5,
+      "y_0": 190.5,
+      "x_1": 230.5,
+      "y_1": 200.5
+    },
+    {
+      "degree": 2,
+      "active": false,
+      "x_0": 200.0,
+      "y_0": 190.0,
+      "x_1": 200.0,
+      "y_1": 205.0,
+      "precision": 2,
+      "pedestrian": true
+    }
+  ]
+}

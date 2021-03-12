@@ -1,0 +1,61 @@
+{
+  "description": "Standard on ramp",
+  "name": "Reversed On-ramp",
+  "curves": [
+    {
+      "degree": 2,
+      "y_1": 204.5,
+      "y_0": 204.5,
+      "x_0": 18.5,
+      "x_1": 169.0,
+      "active": false
+    },
+    {
+      "degree": 2,
+      "y_1": 204.5,
+      "y_0": 205.0,
+      "x_0": 216.5,
+      "x_1": 386.0,
+      "active": false
+    },
+    {
+      "degree": 2,
+      "y_1": 205.0,
+      "y_0": 204.5,
+      "x_0": 169.0,
+      "x_1": 216.5,
+      "active": true,
+      "precision": 4
+    },
+    {
+      "degree": 3,
+      "precision": 6,
+      "y_1": 200.5,
+      "y_0": 183.5,
+      "y_2": 205.0,
+      "x_2": 216.5,
+      "x_0": 155.5,
+      "x_1": 172.5,
+      "active": true
+    },
+    {
+      "degree": 2,
+      "y_1": 183.5,
+      "y_0": 104.0,
+      "x_0": 60.5,
+      "x_1": 155.5,
+      "active": false
+    },
+    {
+      "degree": 2,
+      "active": false,
+      "x_0": 200.0,
+      "y_0": 210.0,
+      "x_1": 200.0,
+      "y_1": 195.0,
+      "precision": 2,
+      "pedestrian": true
+    }
+  ],
+  "created": "28-10-2018"
+}

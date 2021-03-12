@@ -1,0 +1,71 @@
+{
+  "name": "Crossing",
+  "created": "05-11-2018",
+  "description": "Standard on ramp",
+  "curves": [
+    {
+      "active": false,
+      "degree": 2,
+      "x_0": 18.5,
+      "y_0": 195.5,
+      "x_1": 152.5,
+      "y_1": 195.5,
+      "precision": 6
+    },
+    {
+      "active": false,
+      "degree": 2,
+      "x_0": 242.0,
+      "y_0": 195.0,
+      "x_1": 386.0,
+      "y_1": 195.5,
+      "precision": 6
+    },
+    {
+      "degree": 2,
+      "active": true,
+      "x_0": 152.5,
+      "y_0": 195.5,
+      "x_1": 242.0,
+      "y_1": 195.0,
+      "precision": 6
+    },
+    {
+      "degree": 2,
+      "active": false,
+      "x_0": 194.5,
+      "y_0": 361.0,
+      "x_1": 194.0,
+      "y_1": 246.0,
+      "precision": 6
+    },
+    {
+      "degree": 2,
+      "active": true,
+      "x_0": 194.0,
+      "y_0": 246.0,
+      "x_1": 194.0,
+      "y_1": 145.0,
+      "precision": 6
+    },
+    {
+      "degree": 2,
+      "active": false,
+      "x_0": 194.0,
+      "y_0": 145.0,
+      "x_1": 194.5,
+      "y_1": 41.5,
+      "precision": 6
+    },
+    {
+      "degree": 2,
+      "active": false,
+      "x_0": 200.0,
+      "y_0": 190.0,
+      "x_1": 190.0,
+      "y_1": 200.0,
+      "precision": 2,
+      "pedestrian": true
+    }
+  ]
+}

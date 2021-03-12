@@ -1,0 +1,9 @@
+{
+  "trial_repetitions": 10,
+  "iterations": 100,
+  "population": 150,
+  "trials": [
+    "trials/hard/four-way-2-lane.json",
+    "trials/hard/four-way-3-lane.json"
+  ]
+}

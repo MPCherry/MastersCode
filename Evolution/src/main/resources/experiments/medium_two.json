@@ -1,0 +1,9 @@
+{
+  "trial_repetitions": 10,
+  "iterations": 100,
+  "population": 150,
+  "trials": [
+    "trials/medium/circle.json",
+    "trials/medium/four-way.json"
+  ]
+}

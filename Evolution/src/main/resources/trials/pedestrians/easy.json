@@ -1,0 +1,13 @@
+{
+  "spawner": {
+    "min_period": 80,
+    "max_period": 200,
+    "period_mul": 1,
+    "type": "sin",
+    "randomness": 2.0,
+    "pedestrian_rate": 250,
+    "pedestrian_randomness": 2
+  },
+  "steps": 3600,
+  "track": "tracks/pedestrians.json"
+}

@@ -1,0 +1,14 @@
+{
+  "spawner":
+  {
+    "min_period": 50,
+    "max_period": 450,
+    "period_mul": 2,
+    "type": "sin",
+    "randomness": 2.0,
+    "pedestrian_rate": 0,
+    "pedestrian_randomness": 1
+  },
+  "steps": 3600,
+  "track": "tracks/four-way-2-lane.json"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "On-ramp",
+  "created": "28-10-2018",
+  "description": "Standard on ramp",
+  "curves": [
+    {
+      "active": false,
+      "degree": 2,
+      "x_0": 118.5,
+      "y_0": 195.5,
+      "x_1": 169.0,
+      "y_1": 195.5
+    },
+    {
+      "active": false,
+      "degree": 2,
+      "x_0": 216.5,
+      "y_0": 195.0,
+      "x_1": 286.0,
+      "y_1": 195.5
+    },
+    {
+      "degree": 2,
+      "active": true,
+      "x_0": 169.0,
+      "y_0": 195.5,
+      "x_1": 216.5,
+      "y_1": 195.0,
+      "precision": 4
+    },
+    {
+      "degree": 3,
+      "active": true,
+      "precision": 6,
+      "x_0": 155.5,
+      "y_0": 216.5,
+      "x_1": 172.5,
+      "y_1": 199.5,
+      "x_2": 216.5,
+      "y_2": 195.0
+    },
+    {
+      "degree": 2,
+      "active": false,
+      "x_0": 200.0,
+      "y_0": 190.0,
+      "x_1": 200.0,
+      "y_1": 205.0,
+      "precision": 2,
+      "pedestrian": true
+    }
+  ]
+}
